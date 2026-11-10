@@ -1,6 +1,6 @@
 #Hi im Stefan Vučković
 
-Junior Frontend Developer focused on building clean, responsive web applications. Currently deepening my knowledge in the React ecosystem.
+Im Junior Frontend Developer focused on building modern web applications with React, mastering state management, and structuring clean component architectures.
 
 ## Tech Stack
 - JavaScript, React
