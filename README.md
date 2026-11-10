@@ -1,4 +1,4 @@
-#Hi im Stefan Vučković
+# Hi im Stefan Vučković
 
 Im Junior Frontend Developer focused on building modern web applications with React, mastering state management, and structuring clean component architectures.
 
