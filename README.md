@@ -6,5 +6,8 @@ I'm a Junior Frontend Developer focused on building modern web applications with
 - JavaScript, React
 - HTML5, CSS3, Git
 
+## Featured Project
+-**Quart** [Stefan Vučković](https://github.com/StefanVuckovic-dev/Quart)
+
 ## Contact
 - **LinkedIn:** [Stefan Vučković](https://www.linkedin.com/in/stefan-vuckovic-0a4204446/)
